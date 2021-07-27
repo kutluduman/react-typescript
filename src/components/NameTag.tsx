@@ -12,7 +12,7 @@ const NameTag = (props: NameTagProps) => {
         <p>My Name Is</p>
       </header>
       <section className="display-name">
-          <p>{props.name}</p>
+        <p>{props.name}</p>
       </section>
     </main>
   )
